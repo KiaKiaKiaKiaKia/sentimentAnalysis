@@ -5,8 +5,8 @@ The program cleans, splits, preprocesses, vectorises,
 conducts a short EDA, models, evaluates the model and 
 has a short demonstration on unseen reviews. This 
 repository includes a critical analysis of the 
-performance of this program. The dataset used was 
-obtained at: https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews 
+performance of this program taken from the project report.
+The dataset used was obtained at: https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews 
 (Accessed on: 6 January 2025)
 
 What I learnt:
